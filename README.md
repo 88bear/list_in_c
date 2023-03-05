@@ -58,7 +58,7 @@ ListElement* insertToList(ListElement* pList, int v){
 
 ```
 ----------
-### 第二次發現可以用必較簡單的方式去做
+### 第二次發現可以精簡很多地方
 
 ```c
 
